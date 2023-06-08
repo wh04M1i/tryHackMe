@@ -1,131 +1,157 @@
-# TryHackMe Cybersecurity Path: From Beginner to Pro
+# Writeups for THM Rooms
 
-This comprehensive [TryHackMe](https://tryhackme.com) learning path is designed to guide you from a novice to an expert within the cybersecurity domain. 
+Writeups for rooms on TryHackMe, in the order of completion:
 
-It offers a diverse selection of practical exercises, introductory CTFs, and educational modules that encompass a broad spectrum of topics, including OpenVPN, Linux fundamentals, web scanning, and Metasploit, all available at no cost.
-
-Suitable for individuals new to the field or those seeking to refine their existing skills, this learning path provides a valuable resource for all.
-
-Upon completion, you will have established a robust foundation in cybersecurity, equipping you with the knowledge and expertise necessary to tackle advanced challenges and real-world situations.
-
-<br>
-
-**Instructions on how to use this repository [here](/INSTRUCTIONS.md)**
-
----
-
-## Level 1 - Intro
-- [x] [OpenVPN](https://tryhackme.com/room/openvpn)
-- [x] [Welcome](https://tryhackme.com/jr/welcome) (write-up [here](write-ups/level1/Welcome))
-- [x] [Intro to Researching](https://tryhackme.com/room/introtoresearch)
-- [x] [The Hacker Methodology](https://tryhackme.com/room/hackermethodology)
-- [x] [Linux Fundamentals](https://tryhackme.com/module/linux-fundamentals)
-- [ ] [Windows Fundamentals](https://tryhackme.com/module/windows-fundamentals)
-<!-- - [x] [Crash Course Pentesting](https://tryhackme.com/room/ccpentesting) / Private -->
-
-**Introductory CTFs to get your feet wet**
-- [x] [Google Dorking](https://tryhackme.com/room/googledorking)
-- [x] [OHsint](https://tryhackme.com/room/ohsint)
-
-## Level 2 - Tooling
-- [x] [Tmux](https://tryhackme.com/room/rptmux)
-- [x] [Nmap](https://tryhackme.com/room/furthernmap)
-- [ ] [Metasploit](https://tryhackme.com/room/metasploitintro)
-- [ ] [Hydra](https://tryhackme.com/room/hydra)
-- [x] [Linux PrivEsc](https://tryhackme.com/room/linuxprivesc) (write-up [here](write-ups/level2/Linux%20PrivEsc))
-- [ ] [Shodan.io](https://tryhackme.com/room/shodan)
-- [x] [RustScan](https://tryhackme.com/room/rustscan) (write-up [here](write-ups/level2/RustScan))
-<!-- - [ ] [Sublist3r](https://tryhackme.com/room/rpsublist3r) -->
-<!-- - [ ] [Web Scanning](https://tryhackme.com/room/rpwebscanning) -->
-
-**More introductory CTFs**
-- [x] [Vulnversity](https://tryhackme.com/room/vulnversity) (write-up [here](write-ups/level2/Vulnversity))
-- [ ] [Blue](https://tryhackme.com/room/blue)
-- [x] [Simple CTF](https://tryhackme.com/room/easyctf) (write-up [here](write-ups/level2/Simple%20CTF))
-- [ ] [Bounty Hacker](https://tryhackme.com/room/cowboyhacker)
-- [ ] [Brute It](https://tryhackme.com/room/bruteit)
-
-## Level 3 - Crypto & Hashes with CTF practice
-- [x] [Crack the hash](https://tryhackme.com/room/crackthehash)
-- [ ] [Agent Sudo](https://tryhackme.com/room/agentsudoctf)
-- [ ] [The Cod Caper](https://tryhackme.com/room/thecodcaper)
-- [ ] [Ice](https://tryhackme.com/room/ice)
-- [ ] [Lazy Admin](https://tryhackme.com/room/lazyadmin)
-- [ ] [Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
-
-## Level 4 - Web
-- [ ] [OWASP top 10](https://tryhackme.com/room/owasptop10)
-- [ ] [Inclusion](https://tryhackme.com/room/inclusion)
-- [ ] [Injection](https://tryhackme.com/room/injection)
-- [ ] [Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
-- [ ] [Juiceshop](https://tryhackme.com/room/owaspjuiceshop)
-- [ ] [Ignite](https://tryhackme.com/room/ignite)
-- [ ] [Overpass](https://tryhackme.com/room/overpass)
-- [ ] [Year of the Rabbit](https://tryhackme.com/room/yearoftherabbit)
-- [ ] [DevelPy](https://tryhackme.com/room/bsidesgtdevelpy)
-- [ ] [Jack of all trades](https://tryhackme.com/room/jackofalltrades)
-- [ ] [Bolt](https://tryhackme.com/room/bolt)
-
-## Level 5 - Reverse Engineering
-- [ ] [Intro to x86 64](https://tryhackme.com/room/introtox8664)
-- [ ] [CC Ghidra](https://tryhackme.com/room/ccghidra)
-- [ ] [CC Radare2](https://tryhackme.com/room/ccradare2)
-- [ ] [CC Steganography](https://tryhackme.com/room/ccstego)
-- [ ] [Reverse Engineering](https://tryhackme.com/room/reverseengineering)
-- [ ] [Reversing ELF](https://tryhackme.com/room/reverselfiles)
-- [ ] [Dumping Router Firmware](https://tryhackme.com/room/rfirmware)
-- [ ] [Brainpam 1](https://tryhackme.com/room/brainpan)
-
-## Level 6 - Networking
-- [ ] [Introduction to Networking](https://tryhackme.com/room/introtonetworking)
-- [ ] [Smag Grotto](https://tryhackme.com/room/smaggrotto)
-- [ ] [Overpass 2](https://tryhackme.com/room/overpass2hacked)
-
-## Level 7 - PrivEsc
-- [ ] [Sudo Security Bypass](https://tryhackme.com/room/sudovulnsbypass)
-- [ ] [Sudo Buffer Overflow](https://tryhackme.com/room/sudovulnsbof)
-- [ ] [Windows Privesc Arena](https://tryhackme.com/room/windowsprivescarena)
-- [ ] [Linux Privesc Arena](https://tryhackme.com/room/linuxprivescarena)
-- [ ] [Windows Privesc](https://tryhackme.com/room/windows10privesc)
-- [ ] [Blaster](https://tryhackme.com/room/blaster)
-- [ ] [Ignite](https://tryhackme.com/room/ignite)
-- [ ] [Kenobi](https://tryhackme.com/room/kenobi)
-- [ ] [Capture the flag](https://tryhackme.com/room/c4ptur3th3fl4g)
-- [x] [Pickle Rick](https://tryhackme.com/room/picklerick) (write-up [here](write-ups/level7/Pickle%20Rick))
-
-## Level 8 - CTF practice
-- [ ] [Post Exploitation Basics](https://tryhackme.com/room/postexploit)
-- [ ] [Inclusion](https://tryhackme.com/room/inclusion)
-- [ ] [Dogcat](https://tryhackme.com/room/dogcat)
-- [ ] [LFI basics](https://tryhackme.com/room/lfibasics)
-- [ ] [Buffer Overflow Prep](https://tryhackme.com/room/bufferoverflowprep)
-- [ ] [Overpass](https://tryhackme.com/room/overpass)
-- [ ] [Break out the cage](https://tryhackme.com/room/breakoutthecage1)
-- [ ] [Lian Yu](https://tryhackme.com/room/lianyu)
-- [x] [Mr Robot CTF](https://tryhackme.com/room/mrrobot)
-
-## Level 9 - Windows
-- [ ] [Attacktive Directory](https://tryhackme.com/room/attacktivedirectory)
-- [ ] [Retro](https://tryhackme.com/room/retro)
-- [ ] [Blue Print](https://tryhackme.com/room/blueprint)
-- [ ] [Anthem](https://tryhackme.com/room/anthem)
-- [ ] [Relevant](https://tryhackme.com/room/relevant)
-
-## Other rooms and events
-
-**Advent of Cyber Year**
-- [ ] [Advent of Cyber Year 1](https://tryhackme.com/room/25daysofchristmas)
-- [ ] [Advent of Cyber Year 2](https://tryhackme.com/room/adventofcyber2)
-- [ ] [Advent of Cyber Year 3](https://tryhackme.com/room/adventofcyber3)
-- [ ] [Advent of Cyber Year 4](https://tryhackme.com/room/adventofcyber4)
-
----
-
-### Completed the above? You can:
-- Subscribe to TryHackMe to get paths featuring subscriber-only rooms.
-- New challenge rooms are released weekly, have a go at them before the write-ups come out!
-- Keep a list of engaging CTFs and do them.
-- Sign up to other platforms such as [CTF time](https://ctftime.org/) and take part in competitive CTFs.
-- Start a blog with writeups of new rooms.
-- Create your challenge rooms for TryHackMe.
-- Did you like reverse engineering? How about Windows? Or perhaps PrivEsc? You can specialize in one area if you like it. Just search for rooms with that on TryHackMe, or ask in the Discord/Forums/Sub-reddit "I liked X and want to do more".
+  1. [RootMe - Easy](RootMe.md)
+  2. [c4ptur3-th3-fl4g - Easy](c4ptur3-th3-fl4g.md)
+  3. [SimpleCTF - Easy](simplectf.md)
+  4. [Crack The Hash - Easy](CrackTheHash.md)
+  5. [OhSINT - Easy](OhSINT.md)
+  6. [Attacktive Directory - Medium](AttacktiveDirectory.md)
+  7. [Agent Sudo - Easy](AgentSudo.md)
+  8. [Lazy Admin - Easy](LazyAdmin.md)
+  9. [WebOSINT - Easy](WebOSINT.md)
+  10. [Wgel CTF - Easy](WgelCTF.md)
+  11. [Bounty Hacker - Easy](BountyHacker.md)
+  12. [Crack The Hash Level 2 - Medium](CrackTheHashLevel2.md)
+  13. [ffuf - Easy](ffuf.md)
+  14. [Searchlight - IMINT - Easy](SearchlightIMINT.md)
+  15. [Advent of Cyber 1 - Easy](AdventOfCyber1.md)
+  16. [Advent of Cyber 2 - Easy](AdventOfCyber2.md)
+  17. [Advent of Cyber 3 - Easy](AdventOfCyber3.md)
+  18. [Sakura Room - Easy](SakuraRoom.md)
+  19. [Attacking Kerberos - Easy](AttackingKerberos.md)
+  20. [Post-Exploitation Basics - Easy](PostExploitationBasics.md)
+  21. [Zero Logon - Hard](ZeroLogon.md)
+  22. [Linux Forensics - Easy](LinuxForensics.md)
+  23. [Sysmon - Easy](Sysmon.md)
+  24. [Osquery - Easy](Osquery.md)
+  25. [Investigating Windows - Easy](InvestigatingWindows.md)
+  26. [Windows Forensics 1 - Medium](WindowsForensics1.md)
+  27. [Windows Forensics 2 - Medium](WindowsForensics2.md)
+  28. [Redline - Medium](Redline.md)
+  29. [Disk Analysis & Autopsy - Medium](DiskAnalysisAutopsy.md)
+  30. [Windows Privilege Escalation - Medium](WindowsPrivilegeEscalation.md)
+  31. [MAL: Malware Introductory - Easy](MalwareIntroductory.md)
+  32. [MAL: Strings - Easy](Strings.md)
+  33. [MAL: REMnux - The Redux - Easy](REMnux.md)
+  34. [Alfred - Easy](Alfred.md)
+  35. [HackPark - Medium](HackPark.md)
+  36. [Game Zone - Easy](GameZone.md)
+  37. [Zeek - Medium](Zeek.md)
+  38. [Zeek Exercises - Medium](ZeekExercises.md)
+  39. [Skynet - Easy](Skynet.md)
+  40. [Threat Intelligence Tools - Easy](ThreatIntelTools.md)
+  41. [Agent T - Easy](AgentT.md)
+  42. [Committed - Easy](Committed.md)
+  43. [Mr Robot CTF - Medium](MrRobotCTF.md)
+  44. [Velociraptor - Medium](Velociraptor.md)
+  45. [Hacker vs. Hacker - Easy](HackerVsHacker.md)
+  46. [Hacking with PowerShell - Easy](HackingWithPowerShell.md)
+  47. [Enumeration - Easy](Enumeration.md)
+  48. [Brim - Medium](Brim.md)
+  49. [Daily Bugle - Hard](DailyBugle.md)
+  50. [Overpass 2 - Hacked - Easy](Overpass2Hacked.md)
+  51. [Relevant - Medium](Relevant.md)
+  52. [Intro to C2 - Medium](IntroC2.md)
+  53. [Red Team Recon - Easy](RedTeamRecon.md)
+  54. [Password Attacks - Hard](PasswordAttacks.md)
+  55. [Phishing - Medium](Phishing.md)
+  56. [Windows Local Persistence - Medium](WindowsLocalPersistence.md)
+  57. [Microsoft Windows Hardening - Easy](WindowsHardening.md)
+  58. [Data Exfiltration - Hard](DataExfiltration.md)
+  59. [Windows Internals - Medium](WindowsInternals.md)
+  60. [Abusing Windows Internals - Hard](AbusingWindowsInternals.md)
+  61. [AV Evasion: Shellcode - Medium](AVEvasion.md)
+  62. [Obfuscation Principles - Medium](ObfuscationPrinciples.md)
+  63. [Signature Evasion - Medium](SignatureEvasion.md)
+  64. [Bypassing UAC - Medium](BypassingUAC.md)
+  65. [Runtime Detection Evasion - Hard](RuntimeDetectionEvasion.md)
+  66. [Evading Logging and Monitoring - Medium](EvadingLoggingandMonitoring.md)
+  67. [Living Off The Land - Medium](LivingOffTheLand.md)
+  68. [Network Security Solutions - Medium](NetworkSecuritySolutions.md)
+  69. [Firewalls - Medium](Firewalls.md)
+  70. [Active Directory Basics - Easy](ActiveDirectoryBasics.md)
+  71. [Lian_Yu - Easy](Lian_Yu.md)
+  72. [Brute It - Easy](BruteIt.md)
+  73. [ToolsRus - Easy](ToolsRus.md)
+  74. [Fowsniff CTF - Easy](FowsniffCTF.md)
+  75. [Easy Peasy - Easy](EasyPeasy.md)
+  76. [Anonymous - Medium](Anonymous.md)
+  77. [Break Out The Cage - Easy](BreakOutTheCage.md)
+  78. [Breaching Active Directory - Medium](BreachingAD.md)
+  79. [h4cked - Easy](h4cked.md)
+  80. [Boiler CTF - Medium](BoilerCTF.md)
+  81. [UltraTech - Medium](UltraTech.md)
+  82. [Overpass - Easy](Overpass.md)
+  83. [Smag Grotto - Easy](SmagGrotto.md)
+  84. [Biohazard - Medium](Biohazard.md)
+  85. [Madness - Easy](Madness.md)
+  86. [Source - Easy](Source.md)
+  87. [Anthem - Easy](Anthem.md)
+  88. [GoldenEye - Medium](GoldenEye.md)
+  89. [Wonderland - Medium](Wonderland.md)
+  90. [Tokyo Ghoul - Medium](TokyoGhoul.md)
+  91. [HA Joker CTF - Medium](HAJokerCTF.md)
+  92. [Year of the Rabbit - Easy](YearOfTheRabbit.md)
+  93. [Archangel - Easy](Archangel.md)
+  94. [Mustacchio - Easy](Mustacchio.md)
+  95. [Couch - Easy](Couch.md)
+  96. [PrintNightmare, Again! - Easy](PrintNightmareAgain.md)
+  97. [Cyborg - Easy](Cyborg.md)
+  98. [Watcher - Medium](Watcher.md)
+  99. [Warzone 1 - Medium](Warzone1.md)
+  100. [Looking Glass - Medium](LookingGlass.md)
+  101. [Gaming Server - Easy](GamingServer.md)
+  102. [Enumerating Active Directory - Medium](EnumeratingAD.md)
+  103. [tomghost - Easy](tomghost.md)
+  104. [PrintNightmare - Medium](PrintNightmare.md)
+  105. [PrintNightmare, thrice! - Medium](PrintNightmareThrice.md)
+  106. [Solar, exploiting log4j - Medium](SolarLog4j.md)
+  107. [Ignite - Easy](Ignite.md)
+  108. [Kiba - Easy](Kiba.md)
+  109. [Wireshark: Traffic Analysis - Medium](WiresharkTrafficAnalysis.md)
+  110. [CMesS - Medium](CMesS.md)
+  111. [Osquery: The Basics - Easy](OsqueryBasics.md)
+  112. [Dav - Easy](Dav.md)
+  113. [Retro - Hard](Retro.md)
+  114. [Library - Easy](Library.md)
+  115. [ConvertMyVideo - Medium](ConvertMyVideo.md)
+  116. [Buffer Overflow Prep - Easy](BufferOverflowPrep.md)
+  117. [Tempest - Medium](Tempest.md)
+  118. [Brainstorm - Medium](Brainstorm.md)
+  119. [Atlas - Easy](Atlas.md)
+  120. [Intro to Malware Analysis - Medium](IntroMalwareAnalysis.md)
+  121. [Dissecting PE Headers - Medium](DissectingPEHeaders.md)
+  122. [dogcat - Medium](dogcat.md)
+  123. [ColddBox - Easy](ColddBox.md)
+  124. [Warzone 2 - Medium](Warzone2.md)
+  125. [Res - Easy](Res.md)
+  126. [Poster - Easy](Poster.md)
+  127. [Heartbleed - Easy](Heartbleed.md)
+  128. [Oh My WebServer - Medium](OhMyWebServer.md)
+  129. [Blog - Medium](Blog.md)
+  130. [Plotted-TMS - Easy](Plotted-TMS.md)
+  131. [Wekor - Medium](Wekor.md)
+  132. [Anonforce - Easy](Anonforce.md)
+  133. [Olympus - Medium](Olympus.md)
+  134. [Sustah - Medium](Sustah.md)
+  135. [Empline - Medium](Empline.md)
+  136. [Ollie - Medium](Ollie.md)
+  137. [Jack-of-All-Trades - Easy](JackOfAllTrades.md)
+  138. [Madeye's Castle - Medium](MadeyeCastle.md)
+  139. [Gallery - Easy](Gallery.md)
+  140. [Wreath - Easy](Wreath.md)
+  141. [Exploiting Active Directory - Medium](ExploitingAD.md)
+  142. [Persisting Active Directory - Medium](PersistingAD.md)
+  143. [VulnNet: Roasted - Easy](VulnNetRoasted.md)
+  144. [RazorBlack - Medium](RazorBlack.md)
+  145. [Tactical Detection - Medium](TacticalDetection.md)
+  146. [New Hire Old Artifacts - Medium](NewHireOldArtifacts.md)
+  147. [Holo - Hard](Holo.md)
+  148. [Introduction To Cryptography - Medium](IntroductionToCryptography.md)
+  149. [Disgruntled - Easy](Disgruntled.md)
+  150. [Unattended - Medium](Unattended.md)
+  151. [KAPE - Medium](KAPE.md)
+  152. [Opacity - Easy](Opacity.md)
+  153. [DAST - Medium](DAST.md)

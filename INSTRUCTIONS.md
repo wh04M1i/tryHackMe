@@ -54,6 +54,6 @@ git push origin master
 ### 7. You can sync your forked repo with the upstream repo with:
 
 ```
-git remote add upstream https://github.com/migueltc13/TryHackMe
+git remote add upstream https://github.com/wh04M1i/tryHackMe/
 git pull upstream master
 ```

@@ -1,6 +1,6 @@
 # Welcome to the contributing guide
 
-Thank you for investing your time in contributing to our project! Any contribution you make will be reflected on [TryHackMe](https://github.com/migueltc13/TryHackMe) :sparkles:.
+Thank you for investing your time in contributing to our project! Any contribution you make will be reflected on [TryHackMe](https://github.com/wh04M1i/tryHackMe) :sparkles:.
 
 Read our [Code of Conduct](./CODE_OF_CONDUCT.md) to keep our community approachable and respectable.
 
@@ -21,11 +21,11 @@ To get an overview of the project, read the [README](README.md). Here are some r
 
 #### Create a new issue
 
-If you spot a problem with the docs, [search if an issue already exists](https://docs.github.com/en/github/searching-for-information-on-github/searching-on-github/searching-issues-and-pull-requests#search-by-the-title-body-or-comments). If a related issue doesn't exist, you can open a new issue using a relevant [issue form](https://github.com/migueltc13/tryhackme/issues/new/choose).
+If you spot a problem with the docs, [search if an issue already exists](https://docs.github.com/en/github/searching-for-information-on-github/searching-on-github/searching-issues-and-pull-requests#search-by-the-title-body-or-comments). If a related issue doesn't exist, you can open a new issue using a relevant [issue form](https://github.com/wh04M1i/tryHackMe/issues/new/choose).
 
 #### Solve an issue
 
-Scan through our [existing issues](https://github.com/migueltc13/tryhackme/issues) to find one that interests you.
+Scan through our [existing issues](https://github.com/wh04M1i/tryHackMe/issues) to find one that interests you.
 
 ### Make Changes
 
@@ -68,4 +68,4 @@ Once you submit your PR, a Docs team member will review your proposal. We may as
 
 ### Your PR is merged!
 
-Congratulations :tada::tada: [@migueltc13](https://github.com/migueltc13) and the THM community thanks you :sparkles:.
+Congratulations :tada::tada: [@wh04m1i](https://github.com/wh04mi) and the THM community thanks you :sparkles:.
